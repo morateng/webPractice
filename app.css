@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: blue underline wavy;
+    letter-spacing: 10px;
+    font-size: 80px;
+    font-family: Perpetua;
+}
+
+h2 {
+    color: #5fcffc;
+    background-color: plum;
+    font-weight: bold;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+    background: orange;
+    font-weight: 700;
+    line-height: 2;
+}
+
+body {
+    background-color: white;
+}
